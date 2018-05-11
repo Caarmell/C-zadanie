@@ -1,0 +1,17 @@
+c:\users\marta\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+c:\users\marta\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+c:\users\marta\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+c:\users\marta\source\repos\WpfApp1\WpfApp1\obj\Debug\Window1.baml
