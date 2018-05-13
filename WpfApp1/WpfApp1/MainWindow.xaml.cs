@@ -22,7 +22,7 @@ namespace WpfApp1
         {
             string pattern="";
             Match match;
-            switch (strona.Content) {
+            switch (strona.Content.ToString()) {
                 case "1/5":
                     pattern = @"([A-Z]?[À-Ú])?[a-z à-ú]{1,29}$";
                     match = Regex.Match(tekst.Text, pattern, RegexOptions.IgnoreCase);
@@ -93,7 +93,7 @@ namespace WpfApp1
 
         private void Wstecz_Click(object sender, RoutedEventArgs e)
         {
-            switch (strona.Content)
+            switch (strona.Content.ToString())
             {
                 case "2/5":
                     ekran1();
