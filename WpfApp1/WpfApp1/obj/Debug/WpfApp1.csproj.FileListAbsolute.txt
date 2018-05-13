@@ -31,4 +31,3 @@ C:\Users\Marta\Desktop\Nowy folder\C-zadanie\WpfApp1\WpfApp1\obj\Debug\Window1.b
 C:\Users\Marta\Desktop\Nowy folder\C-zadanie\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
 C:\Users\Marta\Desktop\Nowy folder\C-zadanie\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
 C:\Users\Marta\Desktop\Nowy folder\C-zadanie\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
-C:\Users\Marta\Desktop\Nowy folder\C-zadanie\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache

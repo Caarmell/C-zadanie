@@ -86,7 +86,7 @@ namespace WpfApp1
                     else if (tekst.Text == "")
                         uwaga.Content = "Aby przejść do piątego ekranu wpisz numer telefonu.";
                     else
-                        uwaga.Content = "Aby przejść do piątego ekranu wpisz poprawnie numer telefonu - 123456789 lub +48123456789";
+                        uwaga.Content = "Aby przejść do piątego ekranu wpisz poprawnie numer telefonu.";
                     break;
             }
         }
